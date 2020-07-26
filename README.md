@@ -1,5 +1,5 @@
 # AIcrowd Blitz 2
-Solutions to the 5 problems fot the [15 day challenge](https://www.aicrowd.com/challenges/aicrowd-blitz-2) conducted on AIcrowd
+Solutions of the 5 problems in the [15 day challenge](https://www.aicrowd.com/challenges/aicrowd-blitz-2) conducted on AIcrowd <br>
 Worked along with [@naveenggmu](https://github.com/naveenggmu) and [@nimishsantosh107](https://github.com/nimishsantosh107). Won 2nd place in the challenge.
 
 ## LABOR
