@@ -13,3 +13,6 @@ The goal is to predict whether a given piece of text is scrambled or not. The be
 
 ## SKELY
 The goal was to predict the orientation of a 3D skeleton from a single image. The best submission was made by [ResNet.ipynb](https://github.com/RamKaushikR/AIcrowd-Blitz-2/blob/master/SKELY/ResNet.ipynb), which used a ResNet base, and a fully connected layer that produced a regression output. The model was trained for 15 epochs, but the loss minimized around 14 epochs, so the weights of the 14th epoch were loaded in order to make predictions (regression)
+
+## MASKD
+The goal was to create an object detection model capable of detecting the locations of masked and unmasked faces in an image. The best submission was made by [Detectron2.ipynb](https://github.com/RamKaushikR/AIcrowd-Blitz-2/blob/master/MASKD/Detectron2.ipynb), which used a Detectron2 base in order to train the model (object detection)
