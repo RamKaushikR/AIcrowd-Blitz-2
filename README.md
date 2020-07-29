@@ -1,6 +1,6 @@
 # AIcrowd Blitz 2
 Solutions of the 5 problems in the [15 day challenge](https://www.aicrowd.com/challenges/aicrowd-blitz-2) conducted on AIcrowd <br>
-Worked along with [@naveenggmu](https://github.com/naveenggmu) and [@nimishsantosh107](https://github.com/nimishsantosh107). Won 2nd place in the challenge.
+Worked along with [@naveenggmu](https://github.com/naveenggmu) and [@nimishsantosh107](https://github.com/nimishsantosh107). Won 3rd place in the challenge.
 
 ## LABOR
 The goal was to predict the labor conditions of a labor group. The best submission was made by [CatBoost.ipynb](https://github.com/RamKaushikR/AIcrowd-Blitz-2/blob/master/LABOR/CatBoost.ipynb), making use of Category Boosting Classifier on the whole dataset (binary classification)
